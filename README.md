@@ -93,7 +93,7 @@ By linearly combining the parameters at the same position, we can create a **3×
 - The input layer's number of channels must match the number of channels in the filters.
 - Therefore, the next layer's convolution kernels will have the same number of channels as the output from the previous layer.
 
-## Summary of Dimensionality Expansion and Reduction
+## (1) Summary of Dimensionality Expansion and Reduction
 
 Both dimensionality expansion and reduction using **1×1 convolution kernels** can significantly reduce the number of parameters compared to traditional methods.
 

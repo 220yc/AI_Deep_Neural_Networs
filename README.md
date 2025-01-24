@@ -1,4 +1,4 @@
-# AI_Deep_Neural_Networs
+# AI_Deep_Neural_Networks
 Hardware Accelerators for AI Deep Neural Networs
 
 ### AI model : GoogLeNet
